@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Code wurde um 16:48 erstellt
+          Edit <code>src/App.js</code> Code wurde um 16:48 erstellt. Dürfte nicht gepusht werden.
         </p>
         <a
           className="App-link"
